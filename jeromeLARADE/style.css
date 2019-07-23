@@ -1,0 +1,103 @@
+*
+{
+  padding: 0;
+  margin:0;
+   box-sizing: border-box; 
+}
+body
+{
+background: url("images/mobileFond1.png") no-repeat;
+background-size: cover;
+width: 100%;
+
+
+}
+
+
+.titleBar
+{
+
+    font-family: 'Akronim', cursive;
+    font-family: 'Modak', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Parisienne', cursive;
+     text-align: center;
+     background: black;
+     color: white;
+     width: 100%;
+     padding: 1em;
+     margin-bottom: 2px;
+}
+
+.menuMobile
+{
+    width: 100%;
+   display: flex;
+   background: black;
+   padding: 1em;
+ 
+       display: flex;
+       flex-wrap: wrap;
+  
+   justify-content: space-between;
+
+    
+    
+    
+
+
+
+}
+
+.menuMobile i
+{
+    font-size: 2em;
+    color: white;
+    padding-right:25px; 
+    
+    margin-bottom: 2px;
+}
+
+
+.lang
+{
+    font-family: 'Akronim', cursive;
+    font-family: 'Modak', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Parisienne', cursive;
+width: 100%;
+background: black;
+display: flex;
+flex-wrap: wrap;
+
+justify-content: space-between;
+color: white;
+}
+#piclang
+{
+  margin-left: 1%;
+
+}
+#phoneico
+{
+    color: white;
+}
+.lang p
+{
+ margin-right:10%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
