@@ -1,0 +1,150 @@
+*
+{
+  padding: 0;
+  margin:0;
+   box-sizing: border-box; 
+}
+
+
+
+.titleBar
+{
+
+    font-family: 'Akronim', cursive;
+    font-family: 'Modak', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Parisienne', cursive;
+     text-align: center;
+     background: black;
+     color: white;
+     width: 100%;
+     padding: 1em;
+     margin-bottom: 2px;
+}
+
+.menuMobile
+{
+    width: 100%;
+   display: flex;
+   background: black;
+   padding: 1em;
+   display: flex;
+       flex-wrap: wrap;
+      justify-content: space-between;
+
+    
+    
+    
+
+
+
+}
+
+.menuMobile i
+{
+    font-size: 2em;
+    color: white;
+    padding-right:25px; 
+    
+    margin-bottom: 2px;
+}
+.lang a
+{
+
+    color: white;
+    text-decoration: none;
+}
+
+
+.lang
+{
+    font-family: 'Akronim', cursive;
+    font-family: 'Modak', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Parisienne', cursive;
+width: 100%;
+background: black;
+display: flex;
+flex-wrap: wrap;
+
+justify-content: space-between;
+color: white;
+}
+#piclang
+{
+  margin-left: 1%;
+
+}
+#phoneico
+{
+    color: white;
+}
+.lang p
+{
+ margin-right:10%;
+
+}
+.bleu
+{
+    background: blue;
+}
+.pink
+{
+background: rgba(235, 23, 224);
+}
+
+.btf,.bth
+{
+    
+    font-size:2em;
+    text-align: center;
+    margin-bottom:12px; 
+}
+.btnHme
+{
+    width:50%;
+    border-radius: 10px;
+    border: none;
+    background:rgba(88, 169, 235,0.5);
+}
+.btnFme
+{
+    width:50%;
+    border-radius: 10px;
+    border: none;
+    background:rgba(235, 23, 224, 0.5);
+}
+.fondpic
+{
+position: relative;
+z-index:-1;
+margin-top: 630px;
+width: 90%;
+    
+}
+.promotion
+{
+    height:100px;
+
+}
+#promoid
+{
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

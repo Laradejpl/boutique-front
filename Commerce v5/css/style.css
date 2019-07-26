@@ -1,0 +1,15 @@
+*
+{
+  padding: 0;
+  margin:0;
+   box-sizing: border-box; 
+}
+
+
+.page-footer{
+    background: black;
+}
+
+section{
+    min-height: calc(100vh - 150px);
+}
