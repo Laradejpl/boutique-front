@@ -1,0 +1,84 @@
+*
+{
+  padding: 0;
+  margin:0;
+   box-sizing: border-box; 
+}
+
+
+body{
+    
+    margin:0;
+}
+main{
+    min-height:calc(100vh - 150px);
+}
+
+#photo{
+    display:none;
+}
+#icone{
+    font-size:25px;
+    text-align:center;
+    width:45px;
+    height:45px;
+    border:1px solid #ced4da;
+    border-radius:5px;
+    cursor:pointer;
+    line-height:40px;
+}
+#icone,#nomfichier{
+    display:inline-block;
+}
+
+.nba{
+	font-size: 12px;
+	display: inline-block;
+	position: relative;
+	left: -15px;
+	top: -80px;
+	border-radius: 5px;	
+}
+												/*BARRE NAV 2*/
+.room2{
+	background-color: grey;
+}
+
+.room2 a{
+	color: white;
+	margin-right: 10px;
+}
+.room2 a:hover{
+	color: orange;
+	margin-right: 10px;
+	text-decoration: none;
+}
+											/* SECTION INDEX */
+.room1{
+	margin-top: 10px;
+}
+												/* BOUTON voir plus*/
+.room3{
+	text-align: center;	
+}
+.room3 a{
+	color: black;	
+}
+
+.room3 a:hover{
+	color: orange;	
+	text-decoration: none;
+}
+
+.boutton1{
+	margin-left: 250px;
+}
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+ /*
+body {
+  padding-top: 56px;
+}
